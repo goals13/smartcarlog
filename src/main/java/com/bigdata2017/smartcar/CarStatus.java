@@ -18,7 +18,7 @@ public class CarStatus {
 	private String engineInfo;
 	private String breakInfo;
 	private String batteryInfo;
-	
+	private String TEST;
 	public CarStatus( String carNum ){
 		this.carNum = carNum;
 	}
